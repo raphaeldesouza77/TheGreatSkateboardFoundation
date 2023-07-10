@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/raphaeldesouza77/TheGreatSkateboardFoundation/static/css/main.bd62fc56.css",
+    "main.js": "/raphaeldesouza77/TheGreatSkateboardFoundation/static/js/main.7892219c.js",
+    "static/js/651.2a1bf4a1.chunk.js": "/raphaeldesouza77/TheGreatSkateboardFoundation/static/js/651.2a1bf4a1.chunk.js",
+    "static/media/cinco.jpg": "/raphaeldesouza77/TheGreatSkateboardFoundation/static/media/cinco.38c16edc3e6eca6d5bac.jpg",
+    "static/media/dois.jpg": "/raphaeldesouza77/TheGreatSkateboardFoundation/static/media/dois.0cde0d2cd522f11ffa64.jpg",
+    "static/media/h.jpg": "/raphaeldesouza77/TheGreatSkateboardFoundation/static/media/h.03dad928ffc113ed3eab.jpg",
+    "static/media/quatro.jpg": "/raphaeldesouza77/TheGreatSkateboardFoundation/static/media/quatro.e30ff732a3c395fe329f.jpg",
+    "static/media/hum.jpg": "/raphaeldesouza77/TheGreatSkateboardFoundation/static/media/hum.0f2b22d46b57d8217dac.jpg",
+    "static/media/bgpunk.jpg": "/raphaeldesouza77/TheGreatSkateboardFoundation/static/media/bgpunk.01a869ba97786eaf6a87.jpg",
+    "static/media/tres.jpg": "/raphaeldesouza77/TheGreatSkateboardFoundation/static/media/tres.b5e8b2544e6fb3c806b3.jpg",
+    "static/media/art.jpg": "/raphaeldesouza77/TheGreatSkateboardFoundation/static/media/art.a1e8709bcdce39615a24.jpg",
+    "static/media/s.jpg": "/raphaeldesouza77/TheGreatSkateboardFoundation/static/media/s.8046ad7267e8b55d4773.jpg",
+    "static/media/k.jpg": "/raphaeldesouza77/TheGreatSkateboardFoundation/static/media/k.4fd8c1327121fe502bf7.jpg",
+    "static/media/e.jpg": "/raphaeldesouza77/TheGreatSkateboardFoundation/static/media/e.42fca9d0ecfd98805a5e.jpg",
+    "static/media/t.jpg": "/raphaeldesouza77/TheGreatSkateboardFoundation/static/media/t.7739050730753acbd2c2.jpg",
+    "static/media/a.jpg": "/raphaeldesouza77/TheGreatSkateboardFoundation/static/media/a.fe4b40de70b04a9781d2.jpg",
+    "index.html": "/raphaeldesouza77/TheGreatSkateboardFoundation/index.html",
+    "main.bd62fc56.css.map": "/raphaeldesouza77/TheGreatSkateboardFoundation/static/css/main.bd62fc56.css.map",
+    "main.7892219c.js.map": "/raphaeldesouza77/TheGreatSkateboardFoundation/static/js/main.7892219c.js.map",
+    "651.2a1bf4a1.chunk.js.map": "/raphaeldesouza77/TheGreatSkateboardFoundation/static/js/651.2a1bf4a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd62fc56.css",
+    "static/js/main.7892219c.js"
+  ]
+}
